@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/armpakin" target="blank"></a>
+<a href="https://fb.com/https://www.facebook.com/armpakin" target="blank"><img align="center" src="https://scontent.fcnx2-1.fna.fbcdn.net/v/t1.18169-9/27544923_1714896191895721_471182730156102446_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGBLaMXEd1OMtdgyRr4wKvZsM8gS3cIiHKwzyBLdwiIct_np-2pCGAxENV0CYKPuMxzIJ4KijYiH-LvINqdLsed&_nc_ohc=vEYJgPHSFY0AX8ra6vz&_nc_ht=scontent.fcnx2-1.fna&oh=f676a1aa8c0ca579efe2374d7b9ba49a&oe=60D3C013" alt="https://www.facebook.com/armpakin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
