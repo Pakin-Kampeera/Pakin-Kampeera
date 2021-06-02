@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pakin Kampeera</h1>
-- 🔭 I’m currently working on **AI Chatbot with Stress Detection**
+- 🔭 I’m currently working on **Chatbot with Stress Detection**
 
 - 🌱 I’m currently learning **Machine Learning and Mobile development**
 
