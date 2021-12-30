@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pakin Kampeera</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pakin-kampeera&label=Profile%20views&color=0e75b6&style=flat" alt="pakin-kampeera" /> </p>
 
 - 🔭 I’m currently working on **Microservices**
 
