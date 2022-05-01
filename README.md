@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Microservices**
 
-- ✏  I’m currently learning **Spring Boot and Kafka**
+- ✏  I’m currently learning **Spring Boot and Golang**
 
 - 🌱 I'm interest in **Solution architecture and Blockchain**
 
