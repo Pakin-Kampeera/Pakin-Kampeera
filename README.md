@@ -4,7 +4,7 @@
 
 - ✏  I’m currently learning **Spring Boot and Golang**
 
-- 🌱 I'm interest in **Solution architecture and Blockchain**
+- 🌱 I'm interest in **Cloud Computing and Golang**
 
 - 📫 How to reach me **armpakin@hotmail.com**
 
