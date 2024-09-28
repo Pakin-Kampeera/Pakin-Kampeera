@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pakin Kampeera</h1>
 
-- 🔭 I’m currently working on **Microservice devlopment**
+- 🔭 I’m currently working on **Microservice development**
 
 - ✏ I’m currently learning **Golang (Gin) and Angular**
 
