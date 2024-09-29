@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pakin Kampeera</h1>
 
-- 🔭 I’m currently working on **Microservice development**
+- 🔭 I’m currently working on **Backend Development**
 
 - ✏ I’m currently learning **Golang (Gin) and Angular**
 
-- 🌱 I'm interested in **Backend Development and DevSecOps**
+- 🌱 I'm interested in **Cyber Security and DevSecOps**
 
 - 📫 How to reach me armpakin@hotmail.com
 
