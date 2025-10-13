@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pakin Kampeera</h1>
-
 - 🔭 I’m currently working on **Backend Development**
 
 - ✏ I’m currently learning **Golang**
