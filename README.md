@@ -1,10 +1,6 @@
-- 🔭 I’m currently working on **Backend Development**
+- Currently learning **Golang**
 
-- ✏ I’m currently learning **Golang**
-
-- 🌱 I'm interested in **Cyber Security and DevSecOps**
-
-- 📫 How to reach me armpakin@hotmail.com
+- Interested in **Cyber Security and DevSecOps**
 
 ## My Skill Set
 
